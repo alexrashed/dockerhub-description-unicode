@@ -27,4 +27,4 @@ jobs:
         username: ${{ secrets.DOCKERHUB_USERNAME }}
         password: ${{ secrets.DOCKERHUB_PASSWORD }}
         repository: alexrashed/dockerhub-description-tests
-        short-description: '💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻' # 26
+        short-description: '1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890' # 100
